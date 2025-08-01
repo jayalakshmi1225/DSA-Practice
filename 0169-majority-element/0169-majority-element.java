@@ -9,11 +9,14 @@ class Solution {
         }
 
         for(Map.Entry<Integer,Integer> it:map.entrySet()){
-           if(it.getValue() > n/2 ){
-               return it.getKey();
+           if(it.getValue()>n/2){
+            return it.getKey();
            }
 
-        }
+           }
+          
+
+        
 
 return -1;
 
