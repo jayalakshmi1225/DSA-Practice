@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -90,5 +93,6 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
