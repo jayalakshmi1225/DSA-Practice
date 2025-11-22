@@ -22,6 +22,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/0268-missing-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jayalakshmi1225/DSA-Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
